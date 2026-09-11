@@ -1,0 +1,6 @@
+{
+  "name": "Think",
+  "description": "Capture your thoughts. Organize your mind. A modern, mobile-first thought and notes web app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
